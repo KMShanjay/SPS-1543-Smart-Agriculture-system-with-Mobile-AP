@@ -15,20 +15,24 @@
    The webpage to monitor and control all the parameters
 # Node Red flow
 
+https://github.com/KMShanjay/Smart-Agriculture-System/blob/master/Nodered%20Flow.jpg
+
 
 
 #  Node Red
 
-
+https://github.com/KMShanjay/Smart-Agriculture-System/blob/master/Node%20Red.png
 
 # Dashboard
 
-
+https://github.com/KMShanjay/Smart-Agriculture-System/blob/master/Dashboard.png
 
 # Python receiving commands 
 
 
 # IBM Watson stimulator 
+
+https://github.com/KMShanjay/Smart-Agriculture-System/blob/master/IBM%20Watson%20Sumilator.png
 
 
 # presentation video link
