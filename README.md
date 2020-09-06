@@ -30,9 +30,17 @@ https://github.com/KMShanjay/Smart-Agriculture-System/blob/master/Dashboard.png
 # Python receiving commands 
 
 
+https://github.com/KMShanjay/Smart-Agriculture-System/blob/master/python.png
+
+
 # IBM Watson stimulator 
 
-https://github.com/KMShanjay/Smart-Agriculture-System/blob/master/IBM%20Watson%20Sumilator.png
+
+https://github.com/KMShanjay/Smart-Agriculture-System/blob/master/IBM%20Watson%20Sumilator1.png
+
+
+https://github.com/KMShanjay/Smart-Agriculture-System/blob/master/IBM%20Watson%20Sumilator2.png
+
 
 
 # presentation video link
