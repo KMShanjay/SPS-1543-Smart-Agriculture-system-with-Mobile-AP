@@ -62,6 +62,9 @@ https://github.com/KMShanjay/Smart-Agriculture-System/blob/master/IBM%20Watson%2
 
 # presentation video link
 
+https://github.com/KMShanjay/Smart-Agriculture-System/blob/master/Presentation%20video.mp4
+
+
 SUBMITTED BY: SHANJAY KM
 
 EMAIL: kmshanjay7@gmail.com
